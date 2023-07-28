@@ -56,8 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+            To utilize my analytical, problem solving, communication, and interpersonal skills and fast learning abilities by accepting new challenges and finding new ways to achieve the desired result for every situation. To leverage the company with my experience and perform my best as a resourceful asset.
           </p>
         </motion.div>
 
